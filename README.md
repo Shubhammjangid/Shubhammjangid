@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shubham Jangid
-- currently learning C# and MVC
+- currently learning C# and .Net
 
 
